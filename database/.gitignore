@@ -1,0 +1,13 @@
+*.sqlite*
+    /node_modules
+    /public/hot
+    /storage/*.key
+    /vendor
+    .env.backup
+    .phpunit.result.cache
+    Homestead.json
+    Homestaed.yaml
+    npm-debug.log
+    yarn-error.log
+    /.idea
+    /.vscode
